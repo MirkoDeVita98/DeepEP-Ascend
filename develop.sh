@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 # Development build: compile the C++ extension and symlink .so into the package
 
 # Change current directory into project root
